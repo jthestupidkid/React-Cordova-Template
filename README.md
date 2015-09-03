@@ -1,6 +1,6 @@
 # React Cordova Template
 
-[React Cordova](https://github.com/jthestupidkid/react-cordova-template) is a React app using React.js, Webpack and Cordova.
+[React Cordova](https://github.com/jthestupidkid/react-cordova-template) is a React app using React, Webpack and Cordova.
 
 ## Web
 
