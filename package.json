@@ -1,15 +1,28 @@
 {
-  "name": "React Cordova Template",
+  "name": "react-cordova-template",
   "version": "0.0.1",
-  "description": "",
-  "main": "src/index.js",
+  "description": "made by J",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "webpack-dev-server -d --config webpack.config.development.js --content-base www/ --progress --colors --history-api-fallback",
     "build": "webpack -p --config webpack.config.production.js --profile --progress --colors"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthestupidkid/React-Cordova-Template.git"
+  },
+  "keywords": [
+    "cordova",
+    "react",
+    "template"
+  ],
   "author": "J",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jthestupidkid/React-Cordova-Template/issues"
+  },
+  "homepage": "https://github.com/jthestupidkid/React-Cordova-Template#readme",
   "dependencies": {
     "material-ui": "^0.11.0",
     "react": "^0.13.3",
