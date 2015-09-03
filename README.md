@@ -2,6 +2,12 @@
 
 [React Cordova](https://github.com/jthestupidkid/react-cordova-template) is a React app using React, Webpack and Cordova.
 
+## Requirements
+
+* node.js
+* npm
+* cordova
+
 ## Web
 
 ```
